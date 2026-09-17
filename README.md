@@ -69,7 +69,7 @@ python data_collector.py
 
 ## 🎥 Video Explanation
 
-**[Insert Video Explanation Link Here]**
+**[https://drive.google.com/file/d/10WA3-8HMd19HYPgxpfXXz-qYnYFdLI9J/view?usp=sharing]**
 
 ---
 
